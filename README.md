@@ -4,5 +4,5 @@ todas as tecnologias.
 
 ### Sumário
 
-- Node.js
-    - iniciar projetos
+- **Node.js**
+    - <a href="https://github.com/lucaslacroix/wiki/blob/master/Node.js/iniciar-projetos.md" target="_blank">Iniciar projetos</a>
