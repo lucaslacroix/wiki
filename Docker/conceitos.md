@@ -2,7 +2,7 @@
     Conceitos de Docker    
 </h1>
 
-By Bootcamp ::rocket:: Rocketseat
+By Bootcamp :rocket: Rocketseat
 
 ## **Como funciona?**
 
